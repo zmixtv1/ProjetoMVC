@@ -1,0 +1,21 @@
+﻿@model string
+
+@{
+	ViewData["Title"] = "Teste CSHTML5";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+	<label for="nome">Digite seu nome:</label>
+	<input type="text" id="nome" name="nome" required />
+	<button type="submit">Enviar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model))
+{
+	<div>
+		<h4>Olá, @Model! Seja bem-vindo!</h4>
+	</div>
+
+}
