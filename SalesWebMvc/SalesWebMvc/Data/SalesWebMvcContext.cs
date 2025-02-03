@@ -13,8 +13,11 @@ namespace SalesWebMvc.Data
             : base(options)
         {
         }
-        Departments teste = new Departments() { Id = 1, Name = "teste"};
 
-        public DbSet<SalesWebMvc.Models.Departments> Departments { get; set; } = default!;
+        public DbSet<Departments> Departments { get; set; } = default!;
+        public DbSet<Seller> Seller { get; set; }
+        public DbSet<SalesRecord> SalesRecord { get; set; }
+
+
     }
 }
