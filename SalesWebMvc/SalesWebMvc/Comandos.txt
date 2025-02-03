@@ -1,0 +1,11 @@
+
+
+Comando para criar tabela direto pelo	TOOLS - NUGET PACKAGE MANAGER - PACKAGE MANAGER CONSOLE:
+
+Add-Migration {NOME ALEATORIO AQUI} -Context {NOME DO ARQUIVO CONTEXT (DENTRO DO DATA)}
+
+Criar o Banco e a tabela automatico:
+
+Update-Database -Context {NOME DO ARQUIVO CONTEXT (DENTRO DO DATA)}
+
+Fazer a verifição Diretamente pelo SQLServer Management;
