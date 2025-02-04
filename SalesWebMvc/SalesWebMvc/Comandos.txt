@@ -11,3 +11,11 @@ Criar o Banco e a tabela automatico:
 Update-Database -Context {NOME DO ARQUIVO CONTEXT (DENTRO DO DATA)}
 
 Fazer a verifição Diretamente pelo SQLServer Management;
+
+
+
+
+Como Criar do zero
+
+1 - Controllers
+2 - Models
