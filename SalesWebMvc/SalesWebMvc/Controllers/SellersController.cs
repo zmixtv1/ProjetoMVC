@@ -48,7 +48,6 @@ namespace SalesWebMvc.Controllers
             {
                 return NotFound();
             }
-            Console.WriteLine(obj);
             return View(obj);
         }
         [HttpPost]
@@ -58,5 +57,22 @@ namespace SalesWebMvc.Controllers
             _sellerService.remove(id);
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Details(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var obj = _sellerService.FindById(id.Value);
+            if (obj == null)
+            {
+                return NotFound();
+            }
+            return View(obj);
+        }
+
+
     }
 }
