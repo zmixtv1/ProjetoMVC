@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\models\\viewmodels\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\viewmodels\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rodri\\documents\\github\\projetomvc\\saleswebmvc\\saleswebmvc\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0ED67-2D3F-4409-807C-70B7BB5E7377}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,115 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Details.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Details.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T15:04:13.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T15:02:22.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SellersController.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
-              "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAqwEMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:45:54.494Z",
+              "WhenOpened": "2025-02-06T21:28:39.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwHIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:24:41.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Services\\SellerService.cs",
               "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\SellerService.cs",
               "RelativeToolTip": "SalesWebMvc\\Services\\SellerService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T22:00:50.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T21:18:27.574Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Delete.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Delete.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T14:43:15.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T21:48:14.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SellerFormViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "DbConcurrencyException.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "RelativeToolTip": "SalesWebMvc\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:44:22.922Z"
+              "WhenOpened": "2025-02-06T21:17:48.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Program.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Program.cs",
-              "RelativeToolTip": "SalesWebMvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Services\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "SalesWebMvc\\Services\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:43:32.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Services\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Services\\DepartmentService.cs",
-              "RelativeToolTip": "SalesWebMvc\\Services\\DepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:39:05.708Z"
+              "WhenOpened": "2025-02-06T21:15:45.989Z"
             }
           ]
         }
