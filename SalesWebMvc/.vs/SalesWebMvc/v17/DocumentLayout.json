@@ -50,8 +50,7 @@
               "RelativeToolTip": "SalesWebMvc\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T22:03:03.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:03:03.302Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T21:51:30.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T21:51:30.621Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T21:28:39.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T21:28:39.967Z"
             },
             {
               "$type": "Document",
@@ -87,7 +84,7 @@
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
               "ToolTip": "C:\\Users\\rodri\\Documents\\GitHub\\ProjetoMVC\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
               "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T21:24:41.855Z",
               "EditorCaption": ""
