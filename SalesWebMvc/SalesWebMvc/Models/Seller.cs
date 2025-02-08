@@ -1,15 +1,25 @@
-﻿using System.Linq;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Globalization;
 
 namespace SalesWebMvc.Models
 {
     public class Seller
     {
+
         public int Id { get; set; }
         public string Name { get; set; }
+        [EmailAddress]
         public string Email { get; set; }
+        [Display(Name = "Birth Date")]
+        [DataType(DataType.Date)]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime BirthDate { get; set; }
+        [Display(Name = "Base Salary")]
+        [DisplayFormat(DataFormatString = "{0:F2}")]
         public double BaseSalary { get; set; }
         public Departments Department { get; set; }
+        [Display(Name = "Department ID")]
         public int DepartmentId { get; set; }
 
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
