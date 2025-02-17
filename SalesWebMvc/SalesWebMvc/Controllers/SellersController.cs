@@ -39,7 +39,7 @@ namespace SalesWebMvc.Controllers
                 var departments = _departmentService.FindAll();
                 var ViewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
                 return View(ViewModel);
-            }
+            } 
             _sellerService.Insert(seller);
             return RedirectToAction(nameof(Index));
         }
